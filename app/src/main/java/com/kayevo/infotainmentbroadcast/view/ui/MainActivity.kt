@@ -1,4 +1,4 @@
-package com.kayevo.infotainmentbroadcast
+package com.kayevo.infotainmentbroadcast.view.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

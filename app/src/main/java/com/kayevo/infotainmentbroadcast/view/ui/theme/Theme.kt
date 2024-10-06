@@ -1,4 +1,4 @@
-package com.kayevo.infotainmentbroadcast.ui.theme
+package com.kayevo.infotainmentbroadcast.view.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.kayevo.infotainmentbroadcast.ui.theme
+package com.kayevo.infotainmentbroadcast.view.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
